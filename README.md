@@ -1,12 +1,10 @@
 ```json
 // package.json
 {
-  "name": "aiktb",
+  "name": "readme",
   "description": "Open Source Full-Stack Developer.",
   "keywords": ["Vue", "TypeScript", "SpringBoot", "Java", "Ubuntu"],
   "version": "1.0.0",
-  "type": "module",
-  "private": true,
   "license": "MIT",
   "author": {
     "name": "aiktb",
