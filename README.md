@@ -1,7 +1,7 @@
 ```json
 // package.json
 {
-  "name": "readme",
+  "name": "@aiktb/me",
   "description": "Open Source Full-Stack Developer.",
   "keywords": ["Vue", "TypeScript", "SpringBoot", "Java", "Ubuntu"],
   "version": "1.0.0",
