@@ -3,7 +3,7 @@
 {
   "name": "@aiktb/me",
   "description": "Open Source Full-Stack Developer.",
-  "keywords": ["Vue", "TypeScript", "SpringBoot", "Java", "Ubuntu"],
+  "keywords": ["Vue", "TypeScript", "TailwindCSS"],
   "version": "1.0.0",
   "license": "MIT",
   "author": {
