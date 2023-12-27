@@ -1,20 +1,22 @@
 <samp align="center">
+<b><i>
     <p>
-        • <a href="https://aiktb.com">Me: aiktb.com</a> •
+        • <a href="https://aiktb.com" target="_blank">Me: aiktb.com</a> •
     </p>
     <p>
-        <a href="https://aiktb.com/blog">Blog</a> •
-        <a href="https://aiktb.com/projects">Projects</a> •
-        <a href="https://twitter.com/aiktb39">Twitter</a> •
-        <a href="https://reddit.com/u/aiktb">Reddit</a> •
-        <a href="mailto:hey@aiktb.com">Email</a> •
-        <a href="https://t.me/aiktb">Telegram</a> •
-        <a href="https://www.buymeacoffee.com/aiktb">Sponsor</a>
+        <a href="https://aiktb.com/blog" target="_blank">Blog</a> •
+        <a href="https://aiktb.com/projects" target="_blank">Projects</a> •
+        <a href="https://twitter.com/aiktb39" target="_blank">Twitter</a> •
+        <a href="https://reddit.com/u/aiktb" target="_blank">Reddit</a> •
+        <a href="mailto:hey@aiktb.com" target="_blank">Email</a> •
+        <a href="https://t.me/aiktb" target="_blank">Telegram</a> •
+        <a href="https://www.buymeacoffee.com/aiktb" target="_blank">Sponsor</a>
     </p>
     <p>
-        <a href="https://www.typescriptlang.org/">TypeScript</a> •
-        <a href="https://vuejs.org/">Vue</a> •
-        <a href="https://react.dev/">React</a> •
-        <a href="https://tailwindcss.com/">TailwindCSS</a>
+        <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> •
+        <a href="https://vuejs.org/" target="_blank">Vue</a> •
+        <a href="https://react.dev/" target="_blank">React</a> •
+        <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>
     </p>
+</b></i>
 </samp>
