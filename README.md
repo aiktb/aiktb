@@ -10,13 +10,13 @@
         <a href="https://reddit.com/u/aiktb" target="_blank">Reddit</a> •
         <a href="mailto:hey@aiktb.com" target="_blank">Email</a> •
         <a href="https://t.me/aiktb" target="_blank">Telegram</a> •
-        <a href="https://www.buymeacoffee.com/aiktb" target="_blank">Sponsor</a> •
+        <a href="https://www.buymeacoffee.com/aiktb" target="_blank">Sponsor</a>
     </p>
     <p>
         <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> •
         <a href="https://vuejs.org/" target="_blank">Vue</a> •
         <a href="https://react.dev/" target="_blank">React</a> •
-        <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a> •
+        <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>
     </p>
 </b></i>
 </samp>
